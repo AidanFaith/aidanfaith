@@ -4,7 +4,7 @@ My name is Aidan, and I am a new computer science Master's graduate (Fall 2025).
 
 I am working towards full-stack proficiency, but I have a preference for frontend development. 
 
-Now that I have completed my studies, I hope to highlight my skills here with some new personal projects that I will build from scratch.
+Now that I have reached completion of my studies, I hope to highlight my skills here with some new personal projects.
 
 
 
