@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 🧁
 
 My name is Aidan, and I am a new computer science Master's graduate (Fall 2025). 
 
