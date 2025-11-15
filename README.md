@@ -1,6 +1,21 @@
 ## Hi there 👋
 
+My name is Aidan, and I am a new computer science Master's graduate (Fall 2025). 
+
+I am working towards full-stack proficiency, but I have a preference for frontend development. 
+
+Now that I have completed my studies, I hope to highlight my skills here with some new personal projects that I will build from scratch.
+
+
+
+
 <!--
+## My Tools and Tech
+Design: Figma, Procreate, Photoshop, Blender
+
+Build: React, Swift, Kotlin
+
+
 **AidanFaith/aidanfaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
